@@ -11,8 +11,8 @@ $else
 $endif
 
 $html_attr=class="no-js" lang="en"
-$metatag=charset="utf-8"
-$metatag0=name="viewport" content="width=device-width, initial-scale=1.0"
+$metatag1=charset="utf-8"
+$metatag2=name="viewport" content="width=device-width, initial-scale=1.0"
 $linktag0=rel="stylesheet" href="$FOUNDCSS"
 $script_attr=
 $scripttag0_attr=src="bower_components/modernizr/modernizr.js"
