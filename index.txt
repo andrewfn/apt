@@ -1,11 +1,11 @@
-//.Apartment to Sublet at St. Clair West &  Bathurst
+//.Seeing roommate for Apartment at Queen West & Dufferin
 $SITE=http://apt.gw.ca
 $metatag3=property="og:title" content="Apartment to Sublet at St. Clair West &  Bathurst"
 $metatag4=property="og:description" content="Clean, quiet, sunlit bachelor apartment available to sublet. Available the month of Aug 29 to Sept 29 (Dates are negotiable)."
 $metatag5=property="og:image" content="$SITE/images/2016-sublet-stclair.jpg"
 $metatag6=property="og:url" content="http://apt.gw.ca/"
 
-$VER=2.7
+$VER=2.99
 $include foundation6.txt
 $style={
   h2 {color: #888;}
@@ -17,37 +17,32 @@ $style={
 
 $ROW $COL
 .$TITLE
-Clean, quiet, sunlit bachelor apartment available to sublet.
--Available the month of Aug 29 to Sept 29 (Dates are negotiable).
--5 minutes walk to subway, streetcar & bus.
--All utilities + wifi included.
--A/C & fully furnished!
--Laundry in the building.
--Balcony with patio seating.
--High ceilings (8’3")
--Amenities nearby: Loblaws, Shoppers Drug Mart, post office, library, banks.
--Lots of great cafes, restaurants close by. Lots of greenery.
--$999 per month.
+Unit: 1 bedroom in a 2-bedroom 1-bath available Dec. 1, 2021
+-Owner seeking roommate:/
+ Price: $1500, including utilities, unfurnished, OR $1650, inc utilities, furnished./
+ Looking for a minimum 5-6 month commitment. /
+ (Rent Control: Unit was used for residential purposes prior to Nov 15 2018)
+//-Location: Queen West & Dufferin
+//Lease terms:  This is a roommate search. New roommate will sign a roommate agreement and pay rent to myself. 
+/*
+REQUIRED DOCUMENTS for application:
+-Proof of income 
+-soft credit check (won't affect your score)
+-Landlord reference
+-First & Last month’s rent deposit
+-Key deposit ($100)
+YOUR ROOM IS 14 ft x 7.7 ft x 10 ft tall, with a lock. 
+*/
+-BUILDING AMENITIES: bicycle garage & underground garage./
+ En suite dishwasher & brand new washer/dryer./
+ Photos of the unit avail on request.
+-Additional Information: 
+-I am a artist/lawyer, female, working from home & travelling a lot. I am seeking a long-term roommate. It’s a beautiful unit, 10 ft ceilings, newly renovated, with 9 ft windows in the common area.  Quiet Artscape building! There’s a Shoppers, metro, and many great restaurants nearby. 
+-I like to read, watch TV, roast coffee, & travel. My most frequent destinations are NYC, Alexandria, & London. I'm not here a significant part of the time, so you'll have it to yourself a lot. 
+-I’m tidy, clean, and respectful towards others living in the home. I do enjoy hosting friends one on one. I’m looking for someone who is no drama, no neediness, and values privacy and quiet space as much as I do!
+-The shared space is furnished with one of a kind pieces. Your room has a lockable door, can be furnished if you need, is currently unfurnished. It has very large closets, lots of storage space, and room for a queen bed & desk!
+-Non-smokers only. Dog friendly!
+-If interested. ontact: [[mailto:SubletfromRose@gmail.com]]
 
-Contact: [[mailto:SubletfromRose@gmail.com]]
-
-$END $END
-
-$ROW $COL
-$caption=Living Room
--$caption
-[[1-livingroom.jpg $caption]]
-$caption=View from Balcony
--$caption 
-[[2-balcony.jpg $caption]]
-$caption=Kitchen
--$caption
-[[3-kitchen.jpg $caption]] 
-$caption=Bedroom
--$caption
-[[4-bedroom.jpg $caption]]
-$caption=Bathroom
--$caption
-[[5-bathroom.jpg $caption]]
 $END $END
 
