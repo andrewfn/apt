@@ -1,4 +1,4 @@
-//.Seeing roommate for Apartment at Queen West & Dufferin
+//.Seeking roommate for Apartment at Queen West & Dufferin
 $SITE=http://apt.gw.ca
 $metatag3=property="og:title" content="Apartment to Sublet at St. Clair West &  Bathurst"
 $metatag4=property="og:description" content="Clean, quiet, sunlit bachelor apartment available to sublet. Available the month of Aug 29 to Sept 29 (Dates are negotiable)."
