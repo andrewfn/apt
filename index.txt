@@ -1,4 +1,4 @@
-//.Seeking roommate for Apartment at Queen West & Dufferin
+//.Seeking roommate for Apartment at Queen & Dufferin
 $SITE=http://apt.gw.ca
 $metatag3=property="og:title" content="Apartment to Sublet at St. Clair West &  Bathurst"
 $metatag4=property="og:description" content="Clean, quiet, sunlit bachelor apartment available to sublet. Available the month of Aug 29 to Sept 29 (Dates are negotiable)."
@@ -42,7 +42,7 @@ YOUR ROOM IS 14 ft x 7.7 ft x 10 ft tall, with a lock.
 -I’m tidy, clean, and respectful towards others living in the home. I do enjoy hosting friends one on one. I’m looking for someone who is no drama, no neediness, and values privacy and quiet space as much as I do!
 -The shared space is furnished with one of a kind pieces. Your room has a lockable door, can be furnished if you need, is currently unfurnished. It has very large closets, lots of storage space, and room for a queen bed & desk!
 -Non-smokers only. Dog friendly!
--If interested. ontact: [[mailto:SubletfromRose@gmail.com]]
+-If interested. ontact: [[mailto:roselynkeladasedra@gmail.com]] //[[mailto:SubletfromRose@gmail.com]]
 
 $END $END
 
