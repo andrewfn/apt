@@ -17,47 +17,41 @@ $style={
 
 $ROW $COL
 .$TITLE
-Private space for rent in a beautiful condo. Rental room is huge: a good deal for a serene
-place :-) Price negotiable because the priority is fit.
-UNIT: 1 bedroom available in large 2-bedroom, 1-bathroom condo. Furnished
-- Bedroom is a large, built-in closets, plenty of shelving. Bright lights, cozy &quot;Friends&quot; purple
-walls.
+Private space for rent in a beautiful condo. Rental room is huge: a good deal for a serene place :-) Price negotiable because the priority is fit.
+
+...UNIT:
+1 bedroom available in large 2-bedroom, 1-bathroom condo. Furnished
+- Bedroom is a large, built-in closets, plenty of shelving. Bright lights, cozy &quot;Friends&quot; purple walls.
 -faux wood (vinyl) floors throughout the unit.
 
-..PRICE: $1350/month furnished.
+...PRICE:
+ $1350/month furnished.
 RENT CONTROL: Rent-controlled. Rent paid to me; I own the unit.
 
-..LOCATION: located near Queen &amp; Ossington, steps from the Drake Hotel. Located within
-walking distance to many bars and restaurants on Queen West &amp; King W, as well as 504 &amp;
-501 streetcars &amp; 63 bus.
-MY RELATIONSHIP TO THE UNIT:
-As the owner, I'm looking for long-term flat-mate.
+...LOCATION:
+located near Queen & Ossington, steps from the Drake Hotel. Located within walking distance to many bars and restaurants on Queen West & King W, as well as 504 & 501 streetcars & 63 bus.
+MY RELATIONSHIP TO THE UNIT: As the owner, I'm looking for long-term flat-mate.
 LEASE TERMS: This is a roommate search.
-REQUIRED DOCUMENTS FOR APPLICATION: 3 references' contact details. ID. 1st &amp; last
-months' rents &amp; security deposit. Proof of income.
+REQUIRED DOCUMENTS FOR APPLICATION: 3 references' contact details. ID. 1st & last months' rents & security deposit. Proof of income.
 
-..ABOUT THE UNIT:
--This is a shared unit: kitchen, bathroom and living space to be shared. Bathroom with full
-bath shared with one male roommate only.
+...ABOUT THE UNIT:
+-This is a shared unit: kitchen, bathroom and living space to be shared. Bathroom with full bath shared with one male roommate only.
 -High ceilings, exposed concrete and chalkboard walls in common area.
 -Quiet building, quiet unit.
-- New washer/dryer &amp; ensuite dishwasher.
+- New washer/dryer & ensuite dishwasher.
 - There is a lobby with a piano! Out of tune, but...that can change!
 - Bike storage and a garage under the building.
 -Lots of oven space, with microwave.
 
-..ROOMMATE: Looking for a male roommate. Single occupancy please. LGBTQ+ and
-dogs welcome. No cats.
+...ROOMMATE:
+Looking for a male roommate. Single occupancy please. LGBTQ+ and dogs welcome. No cats.
 NO SMOKING, no smoking cannabis please. Edibles fine.
-I'm looking for a professional, no-drama grown-up. Someone clean, considerate &amp; relaxed.
+I'm looking for a professional, no-drama grown-up. Someone clean, considerate & relaxed.
 
-..ABOUT ME:
-I'm the owner, an artist/lawyer working from home. I travel a lot, so I don't intend to be there
-about 50% of the time.
-I'm friendly, warm and courteous, looking for someone tidy who wants their own space, just
-like I do. I'm looking for someone who wants to split rent and live independently.
-Artscape = high quality building, well-maintained, exclusive clientele, &amp; it's a big unit. 800 sq
-feet.
+...ABOUT ME:
+I'm the owner, an artist/lawyer working from home. I travel a lot, so I don't intend to be there about 50% of the time.
+I'm friendly, warm and courteous, looking for someone tidy who wants their own space, just like I do. I'm looking for someone who wants to split rent and live independently.
+Artscape = high quality building, well-maintained, exclusive clientele, & it's a big unit. 800 sq feet.
 10 ft ceilings, great soundproofing,
 
 /*
@@ -88,4 +82,10 @@ YOUR ROOM IS 14 ft x 7.7 ft x 10 ft tall, with a lock.
 */
 
 $END $END
+$ROW $COL
+$caption=Huge Rental Room
+//-$caption
+[[2021-sublet.jpg $caption]]
+$END $END
+
 
