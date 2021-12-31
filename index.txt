@@ -17,6 +17,50 @@ $style={
 
 $ROW $COL
 .$TITLE
+Private space for rent in a beautiful condo. Rental room is huge: a good deal for a serene
+place :-) Price negotiable because the priority is fit.
+UNIT: 1 bedroom available in large 2-bedroom, 1-bathroom condo. Furnished
+- Bedroom is a large, built-in closets, plenty of shelving. Bright lights, cozy &quot;Friends&quot; purple
+walls.
+-faux wood (vinyl) floors throughout the unit.
+
+..PRICE: $1350/month furnished.
+RENT CONTROL: Rent-controlled. Rent paid to me; I own the unit.
+
+..LOCATION: located near Queen &amp; Ossington, steps from the Drake Hotel. Located within
+walking distance to many bars and restaurants on Queen West &amp; King W, as well as 504 &amp;
+501 streetcars &amp; 63 bus.
+MY RELATIONSHIP TO THE UNIT:
+As the owner, I'm looking for long-term flat-mate.
+LEASE TERMS: This is a roommate search.
+REQUIRED DOCUMENTS FOR APPLICATION: 3 references' contact details. ID. 1st &amp; last
+months' rents &amp; security deposit. Proof of income.
+
+..ABOUT THE UNIT:
+-This is a shared unit: kitchen, bathroom and living space to be shared. Bathroom with full
+bath shared with one male roommate only.
+-High ceilings, exposed concrete and chalkboard walls in common area.
+-Quiet building, quiet unit.
+- New washer/dryer &amp; ensuite dishwasher.
+- There is a lobby with a piano! Out of tune, but...that can change!
+- Bike storage and a garage under the building.
+-Lots of oven space, with microwave.
+
+..ROOMMATE: Looking for a male roommate. Single occupancy please. LGBTQ+ and
+dogs welcome. No cats.
+NO SMOKING, no smoking cannabis please. Edibles fine.
+I'm looking for a professional, no-drama grown-up. Someone clean, considerate &amp; relaxed.
+
+..ABOUT ME:
+I'm the owner, an artist/lawyer working from home. I travel a lot, so I don't intend to be there
+about 50% of the time.
+I'm friendly, warm and courteous, looking for someone tidy who wants their own space, just
+like I do. I'm looking for someone who wants to split rent and live independently.
+Artscape = high quality building, well-maintained, exclusive clientele, &amp; it's a big unit. 800 sq
+feet.
+10 ft ceilings, great soundproofing,
+
+/*
 Unit: 1 bedroom in a 2-bedroom 1-bath available Dec. 1, 2021
 -Owner seeking roommate:/
  Price: $1500, including utilities, unfurnished, OR $1650, inc utilities, furnished./
@@ -24,7 +68,6 @@ Unit: 1 bedroom in a 2-bedroom 1-bath available Dec. 1, 2021
  (Rent Control: Unit was used for residential purposes prior to Nov 15 2018)
 //-Location: Queen West & Dufferin
 //Lease terms:  This is a roommate search. New roommate will sign a roommate agreement and pay rent to myself. 
-/*
 REQUIRED DOCUMENTS for application:
 -Proof of income 
 -soft credit check (won't affect your score)
@@ -32,7 +75,6 @@ REQUIRED DOCUMENTS for application:
 -First & Last month’s rent deposit
 -Key deposit ($100)
 YOUR ROOM IS 14 ft x 7.7 ft x 10 ft tall, with a lock. 
-*/
 -BUILDING AMENITIES: bicycle garage & underground garage./
  En suite dishwasher & brand new washer/dryer./
  Photos of the unit avail on request.
@@ -43,6 +85,7 @@ YOUR ROOM IS 14 ft x 7.7 ft x 10 ft tall, with a lock.
 -The shared space is furnished with one of a kind pieces. Your room has a lockable door, can be furnished if you need, is currently unfurnished. It has very large closets, lots of storage space, and room for a queen bed & desk!
 -Non-smokers only. Dog friendly!
 -If interested. ontact: [[mailto:roselynkeladasedra@gmail.com]] //[[mailto:SubletfromRose@gmail.com]]
+*/
 
 $END $END
 
